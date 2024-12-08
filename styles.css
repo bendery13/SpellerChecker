@@ -1,0 +1,27 @@
+.GUI {
+    width: 50%;
+    height: 400px;
+    padding-left: 20px;
+    background-color: rgb(247, 247, 247);
+    border: 2px solid black;    
+  }
+
+
+  #suggestionsList {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+#suggestionsList div {
+    background-color: white; 
+    border: 1px solid #ddd; 
+    border-radius: 4px; 
+    padding: 10px; 
+    text-align: left; 
+    font-size: 14px; 
+    color: #333; 
+    margin-top: 10px; 
+}
+
+  
